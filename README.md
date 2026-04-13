@@ -5,12 +5,17 @@ This project is an AI-powered deep learning model designed to automatically dete
 🚀 Key 
 
 🌱 Deep learning-based image classification for potato leaf diseases
+
 🧠 CNN model trained on labeled plant disease datasets
+
 📊 High-accuracy prediction for real-world agricultural use cases
+
 📷 Image preprocessing and augmentation for better generalization
+
 ⚡ Fast inference for potential real-time deployment
 
 🧰 Tech Stack
+
 Python
 TensorFlow / Keras
 OpenCV
