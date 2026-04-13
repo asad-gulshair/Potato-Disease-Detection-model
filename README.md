@@ -21,6 +21,7 @@ TensorFlow / Keras
 OpenCV
 NumPy / Pandas
 Jupyter Notebook
+
 🎯 Goal
 
 To support farmers and agricultural researchers by providing an automated, AI-driven solution for early detection of potato diseases, reducing crop loss and improving yield productivity.
